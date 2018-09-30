@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="MacBook-Pro-Tomasz.local" failures="0" tests="1" name="SeleniumTest.SeleniumTest" time="6.374" errors="0" timestamp="30 Sep 2018 10:31:30 GMT">
+  <testcase classname="SeleniumTest.SeleniumTest" name="openMyBlog" time="3.595"/>
+</testsuite>
